@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erwanncarn.github.io/sitemap.xml
